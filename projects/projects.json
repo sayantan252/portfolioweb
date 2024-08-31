@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Foodie Hub",
+    "desc": "Full-stack blog website about top resturants of kolkata",
+    "image": "foodiehub",
+    "category": "mern",
+    "links": {
+      "view": "https://foodiehub24.netlify.app/",
+      "code": "https://github.com/sayantan252/FoodieHub24"
+    }
+  },
+  {
+    "name": "Video Call",
+    "desc": "Collaborated in a web-dev team of 5 to building this Video Call  application.",
+    "image": "videocall",
+    "category": "mern",
+    "links": {
+      "view": "https://chat.1410inc.xyz/",
+      "code": "https://github.com/sayantan252/VIDEOCALL"
+    }
+  },
+  {
+    "name": "Audio Blast",
+    "desc": "Built and maintained a music streaming interface with Tailwind-styled UI, BootStrap.",
+    "image": "audioblast",
+    "category": "mern",
+    "links": {
+      "view": "https://audioblast.netlify.app/",
+      "code": "https://github.com/sayantan252/AudioBlast"
+    }
+  },
+  {
+    "name": "Dictionary App",
+    "desc": "Made a fully responsive website to answer aall queries.",
+    "image": "dictionary_app",
+    "category": "mern",
+    "links": {
+      "view": "https://dictionaryapp24.netlify.app",
+      "code": "https://github.com/sayantan252/dictionaryapp"
+    }
+  },
+  {
+    "name": "Image Gallery",
+    "desc": "Built a fully-functional image gallery using HTML,CSS ,JavaScript,BootStrap and Tailwind CSS.",
+    "image": "image_gallery",
+    "category": "mern",
+    "links": {
+      "view": "https://imggallery02.netlify.app",
+      "code": "https://github.com/sayantan252/imagegallery"
+    }
+  },
+  {
+    "name": "Weather App",
+    "desc": " Made a website that can tell the exact teperature of a location accurately.",
+    "image": "weather_app",
+    "category": "lamp",
+    "links": {
+      "view": "https://weather2002.netlify.app",
+      "code": "https://github.com/sayantan252/weather_app"
+    }
+  }
+]
